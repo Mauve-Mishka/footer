@@ -24,7 +24,7 @@ module.exports = {
 				test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
 				loader: 'file-loader',
 				options: {
-					outputPath: 'fonts-summary/'
+					outputPath: 'fonts-footer/'
 				}
 			}
 		]
